@@ -5,7 +5,6 @@ A take home assessment designed for Full-stack or Backend developers
 I have completed this project using JS.
 
 To run this project:
-- make sure you have npm installed! run `npm install`
 - install the necessary packages to run the script using: `npm install`. To verify, you should see a `node_modules` file generated.
 - To see the output for the example cases, run the script file by entering `node index.js` in the terminal, you should see several console tables generated.
 - To test manually your self, navigate to `index.js` and manipulate the entries in the `runExamples` function.
