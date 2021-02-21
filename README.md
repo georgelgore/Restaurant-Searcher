@@ -9,6 +9,9 @@ To run this project:
 - To see the output for the example cases, run the script file by entering `node index.js` in the terminal, you should see several console tables generated.
 - To test manually your self, navigate to `index.js` and manipulate the entries in the `runExamples` function.
 
+example output: 
+https://share.getcloudapp.com/8Lukpvkz
+https://share.getcloudapp.com/BluYdnY8
 
 Assumptions:
 - We want to prioritize matching restaurant names by the beginning of their strings. So for example if a customer enters just the letter "M",
